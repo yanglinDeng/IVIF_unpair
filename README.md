@@ -40,7 +40,8 @@ We propose a **novel training paradigm** which fundamentally alleviates the cost
 | **Trans** | [Trans_baseline.model](https://github.com/yanglinDeng/IVIF_unpair/tree/main/pretrained_models/Trans/Trans.model) | 0.81 | **6.57** | **2.64** | **0.92** | **0.65** | 0.98 | 41.36 | **3.13** | **31.25** | 4.47 | **75.57** | **0.197** |
 | **GAN**   | [GAN_baseline.model](https://github.com/yanglinDeng/IVIF_unpair/tree/main/pretrained_models/GAN/GAN.model)       | 0.71 | **6.57** | **2.53** | **0.91** | **0.63** | **1.01** | **41.90** | **3.09** | 32.46 | 4.47 | **75.62** | **0.207** |
 
-
+## 🗂️ Fusion Performance
+![Fusion Performance](imgs/final_visual.png)  
 ## 🚀 Quick Start
 ### 1. 📥 Clone
 git clone https://github.com/yanglin/IVIF_unpair.git
