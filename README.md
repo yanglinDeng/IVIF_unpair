@@ -47,7 +47,8 @@ git clone https://github.com/yanglin/IVIF_unpair.git
 cd IVIF_unpair
 
 ### 2.🛠️ Environment
-```bash
+```
+# create virtual environment
 conda create -n unpair python=3.7.3
 conda activate unpair
 pip install -r requirements.txt
