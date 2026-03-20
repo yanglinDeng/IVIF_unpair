@@ -44,8 +44,10 @@ We propose a **novel training paradigm** which fundamentally alleviates the cost
 ![Fusion Performance](imgs/final_visual.png)  
 ## 🚀 Quick Start
 ### 1. 📥 Clone
+```
 git clone https://github.com/yanglin/IVIF_unpair.git
 cd IVIF_unpair
+```
 
 ### 2.🛠️ Environment
 ```
